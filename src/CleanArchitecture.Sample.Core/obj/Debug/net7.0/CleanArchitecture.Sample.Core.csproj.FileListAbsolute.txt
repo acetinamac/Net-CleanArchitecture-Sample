@@ -1,0 +1,15 @@
+C:\CODEMASTER\TestLab\CleanArchitecture.Sample\CleanArchitecture.Sample\src\CleanArchitecture.Sample.Core\bin\Debug\net7.0\CleanArchitecture.Sample.Core.deps.json
+C:\CODEMASTER\TestLab\CleanArchitecture.Sample\CleanArchitecture.Sample\src\CleanArchitecture.Sample.Core\bin\Debug\net7.0\CleanArchitecture.Sample.Core.dll
+C:\CODEMASTER\TestLab\CleanArchitecture.Sample\CleanArchitecture.Sample\src\CleanArchitecture.Sample.Core\bin\Debug\net7.0\CleanArchitecture.Sample.Core.pdb
+C:\CODEMASTER\TestLab\CleanArchitecture.Sample\CleanArchitecture.Sample\src\CleanArchitecture.Sample.Core\bin\Debug\net7.0\CleanArchitecture.Sample.SharedKernel.dll
+C:\CODEMASTER\TestLab\CleanArchitecture.Sample\CleanArchitecture.Sample\src\CleanArchitecture.Sample.Core\bin\Debug\net7.0\CleanArchitecture.Sample.SharedKernel.pdb
+C:\CODEMASTER\TestLab\CleanArchitecture.Sample\CleanArchitecture.Sample\src\CleanArchitecture.Sample.Core\obj\Debug\net7.0\CleanArchitecture.Sample.Core.csproj.AssemblyReference.cache
+C:\CODEMASTER\TestLab\CleanArchitecture.Sample\CleanArchitecture.Sample\src\CleanArchitecture.Sample.Core\obj\Debug\net7.0\CleanArchitecture.Sample.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODEMASTER\TestLab\CleanArchitecture.Sample\CleanArchitecture.Sample\src\CleanArchitecture.Sample.Core\obj\Debug\net7.0\CleanArchitecture.Sample.Core.AssemblyInfoInputs.cache
+C:\CODEMASTER\TestLab\CleanArchitecture.Sample\CleanArchitecture.Sample\src\CleanArchitecture.Sample.Core\obj\Debug\net7.0\CleanArchitecture.Sample.Core.AssemblyInfo.cs
+C:\CODEMASTER\TestLab\CleanArchitecture.Sample\CleanArchitecture.Sample\src\CleanArchitecture.Sample.Core\obj\Debug\net7.0\CleanArchitecture.Sample.Core.csproj.CoreCompileInputs.cache
+C:\CODEMASTER\TestLab\CleanArchitecture.Sample\CleanArchitecture.Sample\src\CleanArchitecture.Sample.Core\obj\Debug\net7.0\CleanArc.F1E4439F.Up2Date
+C:\CODEMASTER\TestLab\CleanArchitecture.Sample\CleanArchitecture.Sample\src\CleanArchitecture.Sample.Core\obj\Debug\net7.0\CleanArchitecture.Sample.Core.dll
+C:\CODEMASTER\TestLab\CleanArchitecture.Sample\CleanArchitecture.Sample\src\CleanArchitecture.Sample.Core\obj\Debug\net7.0\refint\CleanArchitecture.Sample.Core.dll
+C:\CODEMASTER\TestLab\CleanArchitecture.Sample\CleanArchitecture.Sample\src\CleanArchitecture.Sample.Core\obj\Debug\net7.0\CleanArchitecture.Sample.Core.pdb
+C:\CODEMASTER\TestLab\CleanArchitecture.Sample\CleanArchitecture.Sample\src\CleanArchitecture.Sample.Core\obj\Debug\net7.0\ref\CleanArchitecture.Sample.Core.dll

@@ -1,0 +1,12 @@
+C:\CODEMASTER\TestLab\CleanArchitecture.Sample\CleanArchitecture.Sample\src\CleanArchitecture.Sample.SharedKernel\bin\Debug\net7.0\CleanArchitecture.Sample.SharedKernel.deps.json
+C:\CODEMASTER\TestLab\CleanArchitecture.Sample\CleanArchitecture.Sample\src\CleanArchitecture.Sample.SharedKernel\bin\Debug\net7.0\CleanArchitecture.Sample.SharedKernel.dll
+C:\CODEMASTER\TestLab\CleanArchitecture.Sample\CleanArchitecture.Sample\src\CleanArchitecture.Sample.SharedKernel\bin\Debug\net7.0\CleanArchitecture.Sample.SharedKernel.pdb
+C:\CODEMASTER\TestLab\CleanArchitecture.Sample\CleanArchitecture.Sample\src\CleanArchitecture.Sample.SharedKernel\obj\Debug\net7.0\CleanArchitecture.Sample.SharedKernel.csproj.AssemblyReference.cache
+C:\CODEMASTER\TestLab\CleanArchitecture.Sample\CleanArchitecture.Sample\src\CleanArchitecture.Sample.SharedKernel\obj\Debug\net7.0\CleanArchitecture.Sample.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODEMASTER\TestLab\CleanArchitecture.Sample\CleanArchitecture.Sample\src\CleanArchitecture.Sample.SharedKernel\obj\Debug\net7.0\CleanArchitecture.Sample.SharedKernel.AssemblyInfoInputs.cache
+C:\CODEMASTER\TestLab\CleanArchitecture.Sample\CleanArchitecture.Sample\src\CleanArchitecture.Sample.SharedKernel\obj\Debug\net7.0\CleanArchitecture.Sample.SharedKernel.AssemblyInfo.cs
+C:\CODEMASTER\TestLab\CleanArchitecture.Sample\CleanArchitecture.Sample\src\CleanArchitecture.Sample.SharedKernel\obj\Debug\net7.0\CleanArchitecture.Sample.SharedKernel.csproj.CoreCompileInputs.cache
+C:\CODEMASTER\TestLab\CleanArchitecture.Sample\CleanArchitecture.Sample\src\CleanArchitecture.Sample.SharedKernel\obj\Debug\net7.0\CleanArchitecture.Sample.SharedKernel.dll
+C:\CODEMASTER\TestLab\CleanArchitecture.Sample\CleanArchitecture.Sample\src\CleanArchitecture.Sample.SharedKernel\obj\Debug\net7.0\refint\CleanArchitecture.Sample.SharedKernel.dll
+C:\CODEMASTER\TestLab\CleanArchitecture.Sample\CleanArchitecture.Sample\src\CleanArchitecture.Sample.SharedKernel\obj\Debug\net7.0\CleanArchitecture.Sample.SharedKernel.pdb
+C:\CODEMASTER\TestLab\CleanArchitecture.Sample\CleanArchitecture.Sample\src\CleanArchitecture.Sample.SharedKernel\obj\Debug\net7.0\ref\CleanArchitecture.Sample.SharedKernel.dll

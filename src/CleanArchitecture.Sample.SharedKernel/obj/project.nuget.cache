@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FpONFvsqMU8=",
+  "success": true,
+  "projectFilePath": "C:\\CODEMASTER\\TestLab\\CleanArchitecture.Sample\\CleanArchitecture.Sample\\src\\CleanArchitecture.Sample.SharedKernel\\CleanArchitecture.Sample.SharedKernel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Armin Cetina Mac\\.nuget\\packages\\ardalis.specification\\6.1.0\\ardalis.specification.6.1.0.nupkg.sha512",
+    "C:\\Users\\Armin Cetina Mac\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\Armin Cetina Mac\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Armin Cetina Mac\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
